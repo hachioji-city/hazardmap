@@ -72,10 +72,5 @@
       "url": "https://disaportaldata.gsi.go.jp/raster/05_jisuberikikenkasyo/{z}/{x}/{y}.png",
       "attribution": "<a href=\"https://disaportal.gsi.go.jp/hazardmap/copyright/opendata.html\">ハザードマップポータルサイト</a>"
     },
-    {
-      "name": "雪崩危険箇所",
-      "url": "https://disaportaldata.gsi.go.jp/raster/05_nadarekikenkasyo/{z}/{x}/{y}.png",
-      "attribution": "<a href=\"https://disaportal.gsi.go.jp/hazardmap/copyright/opendata.html\">ハザードマップポータルサイト</a>"
-    }
   ]
 }
